@@ -1,0 +1,82 @@
+[
+  {
+    "ID": 1,
+    "Name": "Alice",
+    "Maths": 78,
+    "Science": 82,
+    "Total": 160,
+    "Grade": "B"
+  },
+  {
+    "ID": 2,
+    "Name": "Bob",
+    "Maths": 45,
+    "Science": 50,
+    "Total": 95,
+    "Grade": "C"
+  },
+  {
+    "ID": 3,
+    "Name": "Charlie",
+    "Maths": 90,
+    "Science": 88,
+    "Total": 178,
+    "Grade": "A"
+  },
+  {
+    "ID": 4,
+    "Name": "David",
+    "Maths": 60,
+    "Science": 65,
+    "Total": 125,
+    "Grade": "B"
+  },
+  {
+    "ID": 5,
+    "Name": "Eva",
+    "Maths": null,
+    "Science": 72,
+    "Total": 72,
+    "Grade": "C"
+  },
+  {
+    "ID": 6,
+    "Name": "Frank",
+    "Maths": 55,
+    "Science": null,
+    "Total": 55,
+    "Grade": "C"
+  },
+  {
+    "ID": 7,
+    "Name": "Grace",
+    "Maths": 88,
+    "Science": 91,
+    "Total": 179,
+    "Grade": "A"
+  },
+  {
+    "ID": 8,
+    "Name": "Helen",
+    "Maths": 40,
+    "Science": 35,
+    "Total": 75,
+    "Grade": "D"
+  },
+  {
+    "ID": 9,
+    "Name": "Ian",
+    "Maths": 70,
+    "Science": 68,
+    "Total": 138,
+    "Grade": "B"
+  },
+  {
+    "ID": 10,
+    "Name": "Jane",
+    "Maths": 95,
+    "Science": 98,
+    "Total": 193,
+    "Grade": "A"
+  }
+]
